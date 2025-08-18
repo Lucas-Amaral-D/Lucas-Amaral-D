@@ -1,13 +1,13 @@
-![](https://komarev.com/ghpvc/?username=RaphaelSchefflerF)
+![](https://komarev.com/ghpvc/?username=Lucas-Amaral-D)
 
-## 👋 Olá, eu sou o Raphael Scheffler!
+## 🧑🏻‍💻 Lucas Amaral!
 
-Sou apaixonado por tecnologia, desenvolvimento web e soluções criativas que conectam pessoas e ideias. Atualmente estou em constante evolução, aprendendo e aprimorando minhas habilidades em front-end, back-end e design.
+Olá, sou o Lucas Amaral, sou desenvolvedor e estudante de Engenharia de Software (ULBRA Palmas - Ceulp). Tenho 20 anos, sou do Tocantins e já participei do desenvolvimento de projetos web reais em empresas, o que me deu experiência prática em transformar ideias em soluções digitais. Minha maior motivação é crescer na área de tecnologia e evoluir constantemente como profissional, unindo criatividade, técnica e dedicação para entregar resultados de valor.
 
 ## 🚀 Vamos nos conectar?
 <div>
-  <a href="mailto:pcraphaelscheffler@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/raphaelscheffler" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lucasamaraldefreitas5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucas-amaral-de-freitas-931098278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ## 💻 Tech Stack:
@@ -21,21 +21,16 @@ Sou apaixonado por tecnologia, desenvolvimento web e soluções criativas que co
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context--API-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -43,18 +38,17 @@ Sou apaixonado por tecnologia, desenvolvimento web e soluções criativas que co
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-%23FF9A00.svg?style=flat&logo=trello&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelSchefflerF&locale=pt-br&layout=compact&card_width=480&langs_count=6&theme=aura&hide_border=true" height="280" alt="Top Langs" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelSchefflerF&radius=12&theme=tokyo-night&area=true&hide_border=true" height="300" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Amaral-D&locale=pt-br&layout=compact&card_width=480&langs_count=6&theme=aura&hide_border=true" height="280" alt="Top Langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Amaral-D&radius=12&theme=tokyo-night&area=true&hide_border=true" height="300" alt="Contribution Graph" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaphaelSchefflerF/RaphaelSchefflerF/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Amaral-D/Lucas-Amaral-D/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Amaral-D/Lucas-Amaral-D/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lucas-Amaral-D/Lucas-Amaral-D/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
-> "A tecnologia move o mundo — e eu quero fazer parte dessa transformação."
+> "Seja escrevendo linhas de código ou guiando a visão de um produto, o que transforma um sonho em realidade é a coragem de começar e a persistência de não parar."
 ---
