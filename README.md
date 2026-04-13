@@ -2,7 +2,7 @@
 
 ## 🧑🏻‍💻 Lucas Amaral | Desenvolvedor Full-Stack
 
-Olá! Sou **Lucas Amaral**, Desenvolvedor Full-Stack e estudante de Engenharia de Software (ULBRA Palmas - Ceulp). Tenho 20 anos e sou de Tocantins.
+Olá! Sou **Lucas Amaral**, Desenvolvedor Full-Stack e estudante de Engenharia de Software (ULBRA Palmas - Ceulp). Tenho 21 anos e sou de Tocantins.
 
 Minha especialidade é transformar ideias em soluções digitais escaláveis, unindo o poder do front-end com a robustez do back-end. Já participei do desenvolvimento de projetos web reais, o que me deu experiência prática em entregar resultados de valor.
 
