@@ -82,12 +82,6 @@ Minha motivação é evoluir constantemente, unindo criatividade, técnica e ded
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Amaral-D&locale=pt-br&layout=compact&card_width=480&langs_count=6&theme=aura&hide_border=true" height="280" alt="Top Langs" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Amaral-D&radius=12&theme=tokyo-night&area=true&hide_border=true" height="300" alt="Contribution Graph" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Amaral-D/Lucas-Amaral-D/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Amaral-D/Lucas-Amaral-D/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lucas-Amaral-D/Lucas-Amaral-D/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 > "Codificar é mais do que escrever linhas; é sobre arquitetar soluções duradouras. Coragem para começar, persistência para finalizar."
 ---
